@@ -1,7 +1,7 @@
 # 7on9-T 的个人主页
 
 欢迎来到我的GitHub主页！我是7on9-T，一名专注于[E语言，C语言，信息安全]的开发者。  
-在这里，你可以找到我的项目、学习资源、个人简介以及联系方式。
+在这里，你可以找到我的项目、个人简介以及联系方式。  
 <img src="https://komarev.com/ghpvc/?username=7on9-T&abbreviated=true" />
 ## 关于我
 
