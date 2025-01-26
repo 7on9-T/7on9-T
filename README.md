@@ -9,7 +9,7 @@
 - **年龄**: [20岁]
 - **城市**: [吉林]
 - **技能**: [E语言]
-<img src="https://komarev.com/ghpvc/?username={7on9-T}&abbreviated=true" />
+<img src="https://komarev.com/ghpvc/?username=7on9-T&abbreviated=true" />
 
 
 ## 项目
