@@ -9,7 +9,7 @@
 - **年龄**: [20岁]
 - **城市**: [吉林]
 - **技能**: [E语言]
-![visitors](https://visitor-badge.glitch.me/badge?page_id=7on9-T&left_color=green&right_color=red)
+<img src="https://komarev.com/ghpvc/?username={7on9-T}&abbreviated=true" />
 
 
 ## 项目
