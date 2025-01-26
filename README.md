@@ -21,12 +21,10 @@
 ## 贡献指南
 
 如果你对我的项目感兴趣并希望做出贡献，请遵循以下步骤：
-1. 查看[项目名称]的[贡献指南文件]。
-2. 在GitHub上Fork项目。
-3. 创建一个新的分支 (`git checkout -b feature/AmazingFeature`)。
-4. 提交你的更改 (`git commit -m 'Add some AmazingFeature'`)。
-5. 推送到分支 (`git push origin feature/AmazingFeature`)。
-6. 打开一个Pull Request。
+1. 通过下方任一方式联系我，我将会给予你协作的权限。
+2. clone项目到本地。
+3. 在本地修改代码。
+4. 提交修改。
 
 ## 联系我
 
