@@ -52,9 +52,9 @@ int main()
 ### 如果你有任何问题或建议，欢迎通过以下方式联系我：
 
 ```
-电子邮件(Email): [tong061003@gmail.com]
-QQ: [3431947479]
-微信(WeChat): [Tong_7520]
+电子邮件(Email): tong061003@gmail.com
+QQ: 3431947479
+微信(WeChat): Tong_7520
 ```
 
 > ## 最后
